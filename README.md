@@ -5,24 +5,9 @@ Mostly using MongoDb as dataBase, but I had contact with <b>MySQL</b> (used in o
 
 💡 Currently interested in history of The Great War, after seeing one meme about Gallipoli battle:
 ![gallipoli](https://user-images.githubusercontent.com/96724682/223203020-20768c57-e799-428b-96bf-0934a5594288.jpg)
-<h4>⚡ Current project I'm working on,and im most proud of, is called [I'm an inline-style (https://www.google.com)], and is already used by few of my friends</h4>
-           Frontend: <b>Angular,pixijs</b>
-<br />Backend: <b>nodejs, Express, mongoDb</b>
-<br />Website: <b>www.kbskdev.com</b>
+
+⚡<b> Current project I'm working on,and I'm most proud of, is called</h4> [pinBoard](http://pages.kbskdev.com) , and is already used by few of my friends</b>
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend: <b>Angular,pixijs</b>
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend: <b>nodejs, Express, mongoDb</b>
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website: <b>www.kbskdev.com</b>
 <br /><br />🕹️ In spare time I'm adding new things to my game, made in <b>Angular and matterjs</b>
-
-[I'm an inline-style link]<https://www.google.com>
-<!--
-**kbskdev/kbskdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
