@@ -4,7 +4,8 @@ Currently I'm expanding my knowledge of creating fullstack apps in <b>Angular an
 Mostly using MongoDb as dataBase, but I had contact with <b>MySQL</b> (used in one small <b>PHP</b> project)
 
 Currently interested in history of The Great War, after seeing one meme about Gallipoli battle
-![image](https://user-images.githubusercontent.com/96724682/223200512-610ff8f0-ea5c-4f65-96cb-7cec8b55c0d5.png)
+
+![gallipoli](https://user-images.githubusercontent.com/96724682/223201446-9e3c7a64-c44e-4af3-b73f-758356df2859.jpg)
 
 
 <!--
