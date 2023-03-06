@@ -1,4 +1,4 @@
-Hi<b><h3>I am a talented programmer</h3></b> who, apart from programming, is passionate about electronics, and robotics, cars, basketball, art in all forms, and history
+Hi<b><h3>I am a ✨talented programmer✨</h3></b> who, apart from programming, is passionate about electronics, and robotics, cars, basketball, art in all forms, and history
 
 Currently I'm expanding my knowledge of creating fullstack apps in <b>Angular and Nodejs with Express</b>
 Mostly using MongoDb as dataBase, but I had contact with <b>MySQL</b> (used in one small <b>PHP</b> project)
