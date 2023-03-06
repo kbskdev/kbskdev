@@ -4,6 +4,8 @@ Currently I'm expanding my knowledge of creating fullstack apps in <b>Angular an
 Mostly using MongoDb as dataBase, but I had contact with <b>MySQL</b> (used in one small <b>PHP</b> project)
 
 Currently interested in history of The Great War, after seeing one meme about Gallipoli battle
+![image](https://user-images.githubusercontent.com/96724682/223200512-610ff8f0-ea5c-4f65-96cb-7cec8b55c0d5.png)
+
 
 <!--
 **kbskdev/kbskdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
