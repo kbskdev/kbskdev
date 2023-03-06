@@ -1,4 +1,9 @@
-### Hi there 👋
+<b>Hi,I am a talented programmer</b> who, apart from programming, is passionate about electronics, and robotics, cars, basketball, art in all forms, and history
+
+Currently I'm expanding my knowledge of creating fullstack apps in <b>Angular and Nodejs with Express</b>
+Mostly using MongoDb as dataBase, but I had contact with <b>MySQL</b> (used in one small <b>PHP</b> project)
+
+Currently interested in history of The Great War, after seeing one meme about Gallipoli battle
 
 <!--
 **kbskdev/kbskdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
