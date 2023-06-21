@@ -6,8 +6,7 @@ Mostly using MongoDb as dataBase, but I had contact with <b>MySQL</b> (used in o
 💡 Currently interested in history of The Great War, after seeing one meme about Gallipoli campaign:
 ![gallipoli](https://user-images.githubusercontent.com/96724682/223203020-20768c57-e799-428b-96bf-0934a5594288.jpg)
 
-⚡<b> Current project I'm working on,and I'm most proud of, is called</h4> [pinBoard](http://www.kbskdev.com) , and is already used by few of my friends</b>
+⚡<b> Current project I'm working on,and I'm most proud of, is called</h4> [pinBoard](http://www.pinboard.pl) , and is already used by few of my friends</b>
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend: <b>Angular, pixijs</b>
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend: <b>nodejs, Express, mongoDb</b>
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website: <b>www.kbskdev.com</b>
-<br /><br />🕹️ In spare time I'm adding new things to my game, made in <b>Angular and matterjs</b>
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website: <b>www.pinboard.pl</b>
